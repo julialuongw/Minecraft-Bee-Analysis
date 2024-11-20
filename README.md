@@ -1,6 +1,6 @@
 # minecraft bee analysis
-This is a mini project investigating Minecraft bee pollination mechanics using the Python pandas library. This culminates in a novel discovery that can be used by players to speed up honey production by 2x the known rate.
+this is a mini project investigating Minecraft bee mechanics with Python. culminates in a novel discovery to speed up honey production by 2x the known rate in TAS runs. 
 
-video link ↓
+video link c:  ↓ 
 
 https://www.youtube.com/watch?v=o25igBTF4Rk
